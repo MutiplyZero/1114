@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\P7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB62A70-FC3E-453D-AA9D-47C28907328C}|P7\\P7.vcxproj|C:\\Users\\USER\\source\\repos\\P7\\P7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCB62A70-FC3E-453D-AA9D-47C28907328C}|P7\\P7.vcxproj|solutionrelative:P7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\P7\\P7\\Source.cpp",
+              "RelativeDocumentMoniker": "P7\\Source.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\P7\\P7\\Source.cpp",
+              "RelativeToolTip": "P7\\Source.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T10:01:58.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

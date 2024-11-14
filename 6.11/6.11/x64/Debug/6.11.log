@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\程式作業\6.11\6.11\Source.cpp(34,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\程式作業\6.11\6.11\Source.cpp(46,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  6.11.vcxproj -> C:\Users\USER\Desktop\程式作業\6.11\x64\Debug\6.11.exe
